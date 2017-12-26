@@ -1,0 +1,10 @@
+{
+  "name": "learnyoumongo",
+  "version": "1.0.0",
+  "description": "Exercise for https://github.com/evanlucas/learnyoumongo",
+  "author": "Satria H R Harsono",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.2.33"
+  }
+}
